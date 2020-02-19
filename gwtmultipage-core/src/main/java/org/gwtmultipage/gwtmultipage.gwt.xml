@@ -1,0 +1,16 @@
+<module>
+
+	<!-- Inherit the core Web Toolkit stuff.                  -->
+    <!-- TODO: inherit something lighter than User? -->
+	<inherits name='com.google.gwt.user.User'/>
+
+    <define-configuration-property name="GwtMultipage.menuElementId" is-multi-valued="false"/>
+
+    <define-configuration-property name="GwtMultipage.javascriptTokenVariable" is-multi-valued="false"/>
+    <set-configuration-property name="GwtMultipage.javascriptTokenVariable" value="gwtMultipageToken"/>
+
+	<generate-with class='org.gwtmultipage.rebind.EntryPointFactoryImplGenerator'>
+		<when-type-assignable class='org.gwtmultipage.client.core.EntryPointFactory'/>
+	</generate-with>
+  	
+</module>

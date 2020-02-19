@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/75/trunk/gwtmultipage/gwtmultipage-core/src/main/java/org/gwtmultipage/rebind/selector
+END
+EntryPointSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/54/trunk/gwtmultipage/gwtmultipage-core/src/main/java/org/gwtmultipage/rebind/selector/EntryPointSelector.java
+END
+UrlPatternEntryPointSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/54/trunk/gwtmultipage/gwtmultipage-core/src/main/java/org/gwtmultipage/rebind/selector/UrlPatternEntryPointSelector.java
+END
+JavascriptTokenEntryPointSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/54/trunk/gwtmultipage/gwtmultipage-core/src/main/java/org/gwtmultipage/rebind/selector/JavascriptTokenEntryPointSelector.java
+END
+BaseEntryPointSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/54/trunk/gwtmultipage/gwtmultipage-core/src/main/java/org/gwtmultipage/rebind/selector/BaseEntryPointSelector.java
+END
